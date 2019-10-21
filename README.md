@@ -1,2 +1,1 @@
-# JAMS
-Proyecto JAMS
+
